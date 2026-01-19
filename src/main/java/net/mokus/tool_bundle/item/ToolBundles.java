@@ -1,4 +1,4 @@
-package net.mokus.tool_bundle.datagen;
+package net.mokus.tool_bundle.item;
 
 import net.minecraft.component.DataComponentTypes;
 import net.minecraft.entity.Entity;
@@ -22,7 +22,6 @@ import net.minecraft.util.TypedActionResult;
 import net.minecraft.util.math.MathHelper;
 import net.minecraft.world.World;
 import net.mokus.tool_bundle.components.ToolBundleContentsComponent;
-import net.mokus.tool_bundle.item.ToolBundleTooltipData;
 import net.mokus.tool_bundle.util.ModDataComponents;
 import net.mokus.tool_bundle.util.ModTags;
 
