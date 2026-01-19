@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Y": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " Y ",
+    "X X",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tool_bundle:copper_tool_bundle"
+  }
+}

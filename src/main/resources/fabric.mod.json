@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "tool_bundle",
+  "version": "${version}",
+  "name": "Tool Bundles",
+  "description": "Bundles delights",
+  "authors": [
+    "_Mokus"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/tool_bundle/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.mokus.tool_bundle.Tool_bundleDataGenerator"
+    ],
+    "client": [
+      "net.mokus.tool_bundle.Tool_bundleClient"
+    ],
+    "main": [
+      "net.mokus.tool_bundle.Tool_bundle"
+    ]
+  },
+  "mixins": [
+    "tool_bundle.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
