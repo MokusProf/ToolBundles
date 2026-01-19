@@ -10,7 +10,7 @@ import net.minecraft.registry.RegistryKey;
 import net.minecraft.util.Identifier;
 import net.mokus.tool_bundle.Tool_bundle;
 import net.mokus.tool_bundle.components.ToolBundleContentsComponent;
-import net.mokus.tool_bundle.item.ToolBundles;
+import net.mokus.tool_bundle.datagen.ToolBundles;
 
 public class ModItems {
 
