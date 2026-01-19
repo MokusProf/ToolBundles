@@ -1,0 +1,93 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-01-20 00:06:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-01-20 00:06:05 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2026-01-20 00:06:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-01-20 00:06:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2026-01-20 00:06:42 +0100"
+    },
+    "done": true
+  },
+  "tool_bundle:recipes/misc/gold_tool_bundle": {
+    "criteria": {
+      "has_copper_bundle": "2026-01-20 00:14:15 +0100"
+    },
+    "done": true
+  },
+  "tool_bundle:recipes/misc/iron_tool_bundle": {
+    "criteria": {
+      "has_copper_bundle": "2026-01-20 00:14:15 +0100"
+    },
+    "done": true
+  },
+  "tool_bundle:recipes/misc/diamond_tool_bundle": {
+    "criteria": {
+      "has_copper_bundle": "2026-01-20 00:14:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2026-01-20 00:40:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2026-01-20 00:44:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2026-01-20 00:44:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-01-20 00:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-01-20 00:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-01-20 00:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-01-20 00:46:09 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

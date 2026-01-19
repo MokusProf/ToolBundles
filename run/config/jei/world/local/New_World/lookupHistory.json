@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tool_bundle:gold_tool_bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tool_bundle:netherite_tool_bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tool_bundle:iron_tool_bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tool_bundle:copper_tool_bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:awkward"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:regeneration"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:long_regeneration"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:strong_swiftness"}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
